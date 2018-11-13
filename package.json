@@ -1,0 +1,14 @@
+{
+  "name": "youtube-2018q3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xeontem/youtube-2018q3.git",
+  "author": "Artsiom Kukharev <artsiom_kukharev@epam.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
